@@ -14,7 +14,11 @@ One other thing you have to do for this code to work is to change one line in
 
 Replace this 
 "3, 0x42, 0x7f, 0x40,  // 49 - '1'"
+
 with
+
 "5, 0x00, 0x42, 0x7f, 0x40, 0x00,	// 49 - '1'"
+
+(No quotation marks)
 
 This will make the number way take the same space as other numbers, keeping it always in the same place.
