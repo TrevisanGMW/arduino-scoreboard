@@ -21,4 +21,4 @@ with
 
 (No quotation marks)
 
-This will make the number way take the same space as other numbers, keeping it always in the same place.
+This will make the number one take the same space as other numbers, keeping it always in the same place.
