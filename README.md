@@ -2,6 +2,7 @@
 A simple Arduino Scoreboard
 
 Single press : Adds a point
+
 Long press: Resets it to zero
 
 The printable 3d case for it:
